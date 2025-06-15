@@ -10,3 +10,4 @@ Pillow
 rembg
 pydub
 pyaudio
+ffmpeg
