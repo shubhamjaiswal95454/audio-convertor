@@ -1,12 +1,4 @@
 streamlit
-pandas
-numpy
-matplotlib
-statsmodels
-scikit-learn
-opencv-python-headless
-Pillow
-rembg
 pydub
 pyaudio
 ffmpeg-python
