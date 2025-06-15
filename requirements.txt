@@ -4,10 +4,9 @@ numpy
 matplotlib
 statsmodels
 scikit-learn
-streamlit
 opencv-python-headless
 Pillow
 rembg
 pydub
 pyaudio
-ffmpeg
+ffmpeg-python
