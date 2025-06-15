@@ -8,7 +8,7 @@ def main():
 
     uploaded_file = st.file_uploader("Upload your audio file", type=["mp3", "wav", "ogg", "flac", "m4a"])
 
-    output_format = st.selectbox("Select output format", ["mp3", "wav", "ogg", "flac"])
+    output_format = st.selectbox("Select the output format", ["mp3", "wav", "ogg", "flac"])
 
     if uploaded_file is not None:
         with tempfile.NamedTemporaryFile(delete=False) as temp_in:
